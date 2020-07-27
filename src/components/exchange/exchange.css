@@ -1,0 +1,22 @@
+*{
+  color: #1B1B1E;
+}
+#exchange{
+  width: 80%;
+  margin: auto;
+}
+#exchange h2{
+text-align: center;
+color: #FAA916;
+}
+input{
+  text-align: center;
+}
+.input-group{
+  width: 40%;
+  margin: auto;
+}
+button{
+display: block !important;
+margin: auto;
+}

@@ -1,0 +1,26 @@
+.nav-item a{
+  font-weight: 500 !important;
+  font-size: 20px !important;
+
+}
+#menu-right{
+  position: absolute;
+      right: 1%;
+}
+#menu-right a{
+  color: white !important;
+
+    }
+li{
+display: inline-block !important;
+cursor: pointer;
+}
+.navbar{
+  background-color: #8884FF;
+}
+
+#menu{
+  display: block;
+  margin-bottom: 5%;
+
+}
